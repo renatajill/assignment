@@ -1,0 +1,29 @@
+[
+    {
+        "animal": "West African Dwarf Crocodile",
+        "habitat": "rainforests",
+        "distribution": "Africa",
+        "name": "Carl",
+        "favoriteFood": "crabs",
+        "hobbies": ["sunbathing", "swallowing food whole"],
+        "image": "images/croco.jpg"
+    },
+    {
+        "animal": "Golden Lion Tamarin",
+        "habitat": "rainforests",
+        "distribution": "South America",
+        "name": "Juliet",
+        "favoriteFood": "frozen apple juice",
+        "hobbies": ["yelling at guests", "swinging from branch to branch"],
+        "image": "images/monkey.jpg"
+    },
+    {
+        "animal": "White's tree frog",
+        "habitat": "wet and dry forests and grasslands",
+        "distribution": "Southeast Asia",
+        "name": "King",
+        "favoriteFood": "big and hairy spiders",
+        "hobbies": ["vibing on top of water lilies", "hiding from guests"],
+        "image": "images/frog.jpg"
+    }
+]
